@@ -1,0 +1,38 @@
+* table #column{
+  color: rgb(0, 0, 0);
+  position: center;
+  background-color: rgb(255, 255, 255);
+}
+
+.column {
+  color: rgb(0, 0, 0);
+  position: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+form {
+  margin: 0 auto;
+}
+
+
+.success {
+  border: 1px solid #02ff02;
+  color: #02ff02;
+  background: #f2dede;
+  border-radius: 5px;
+  text-align: left;
+}
+.cancel{
+    border: 1px solid #a94442;
+    color: #a94442;
+    background: #f2dede;
+    border-radius: 5px;
+    text-align: left;
+}
+
+
+.success {background-color: #4CAF50;} /* Green */
+.info {background-color: #2196F3;} /* Blue */
+.statusorder {background-color: #ff9800;} /* Orange */
+.cancel {background-color: #f44336;} /* Red */ 
+.other {background-color: #e7e7e7; color: black;} /* Gray */ 
